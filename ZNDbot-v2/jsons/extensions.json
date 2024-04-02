@@ -1,0 +1,10 @@
+{
+    "cogs":[
+        "cogs.connections",
+        "cogs.messagelistener",
+        "cogs.reload"
+    ],
+    "files":[
+        ""
+    ]
+}

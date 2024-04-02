@@ -1,0 +1,9 @@
+{
+    "0":{
+        "type" : "roid",
+        "roid-speaker" : 0,
+        "vox-speaker":1,
+        "speed" : 1.2,
+        "pitch" : 1.0
+    }
+}
